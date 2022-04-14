@@ -3,7 +3,7 @@
 ### Blog
 
 - [blog.shpanda.net](https://blog.shpanda.net)
-  VPS破壊しました(｡･_･｡)
+  2022.04.14 VPS破壊完了につきnetlifyへ...(｡･_･｡)
 
 
 Powered by
